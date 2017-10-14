@@ -135,7 +135,7 @@ The model was able to correctly guess 5 of the 5 traffic signs, which gives an a
 
 #### softmax probabilities for each prediction.
 
-For the these certain images, the model is relatively sure that this is a certain sign (probabilities greater 0.9), and that happens to be the correct prediction.
+For these images, the model is pretty sure that this is a certain sign (probabilities greater 0.9), and that happens to be the correct prediction.
 
 ![alt text][image6] 
 
